@@ -124,3 +124,6 @@ Jika pengguna memasukkan menu `'K'` maka program akan berakhir dan menampilkan p
 ![prak.pict](https://github.com/Nakii-ru/prak.pict/blob/main/Untitled%20Diagram(5)(1).drawio.png?raw=true)
 
 # Hasil Kode
+![prak.pict](https://github.com/Nakii-ru/prak.pict/blob/main/Screenshot%202024-11-30%20073534.png?raw=true)
+![prak.pict](https://github.com/Nakii-ru/prak.pict/blob/main/Screenshot%202024-11-30%20073559.png?raw=true)
+![prak.pict](https://github.com/Nakii-ru/prak.pict/blob/main/Screenshot%202024-11-30%20073619.png?raw=true)
